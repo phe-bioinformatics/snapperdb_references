@@ -1,0 +1,14 @@
+snpdb_name o146_snps
+reference_genome 2010C-3325
+snpdb_reference_genome_name 2010C-3325
+pg_uname postgres
+pg_pword postgres
+pg_host localhost
+depth_cutoff 10
+mq_cutoff 30
+ad_cutoff 0.9
+average_depth_cutoff 30
+mapper bwa
+mapper_threads 4
+variant_caller gatk
+variant_caller_threads 4
